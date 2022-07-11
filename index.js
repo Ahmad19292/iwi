@@ -761,7 +761,7 @@ client.channels.cache.get("").send(`
 });
 ///////////////// left server
 client.on('guildDelete', guild => {
-  client.channels.cache.get("743918699290951710").send(`
+  client.channels.cache.get("981330003654500452").send(`
 ❎ **Lift Server**: ${client.guilds.cache.size}
 🔠 **Server Name**: ${guild.name}
 👑 **Server Owner**: ${guild.owner}
@@ -770,5 +770,5 @@ client.on('guildDelete', guild => {
 });
 
 
-client.login("a3c4a2c4434b765210dca8cb4cfbe698ea7483127eda80931940f7e1525a3740");
+client.login("OTk2MDgyNzc5MDY0Mzg1NTc3.GPMcT2.S70dCRxflPGtA4m5VMX4N06yQh4l6lQ-rbwlFM");
 ////////////Coded By ANO
